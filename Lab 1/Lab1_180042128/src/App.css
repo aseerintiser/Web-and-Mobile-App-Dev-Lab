@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.app__header {
+  font-size: 1.5rem;
+  height: 10vh;
+  width: 60vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 0.2rem solid #000;
+}
