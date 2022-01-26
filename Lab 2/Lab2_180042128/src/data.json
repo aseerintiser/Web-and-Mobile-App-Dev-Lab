@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Mow the lawn",
+        "project": "House chores",
+        "secs": 3656
+    }
+,
+{
+        "title": "Clear paper jam",
+        "project": "Office chores",
+        "secs": 1273
+    }
+,
+    {
+        "title": "Ponder origins of universe",
+        "project": "Life chores",
+        "secs": 50400
+    }
+]
